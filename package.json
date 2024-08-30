@@ -1,0 +1,21 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Global_GGS",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.5",
+    "cfonts": "^3.3.0",
+    "chalk": "^5.3.0",
+    "express": "^4.19.2",
+    "gradient-string": "^2.0.2",
+    "telegraf": "^4.16.3",
+    "ytdl-core": "^4.11.5"
+  }
+}
